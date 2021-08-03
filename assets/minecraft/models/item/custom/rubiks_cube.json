@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "grindstone/rubiks_cube_atlas",
-		"particle": "grindstone/rubiks_cube_atlas"
+		"0": "item/custom/rubiks_cube_atlas",
+		"particle": "item/custom/rubiks_cube_atlas"
 	},
 	"elements": [
 		{

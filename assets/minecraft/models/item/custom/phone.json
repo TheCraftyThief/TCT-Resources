@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "grindstone/phone_atlas"
+		"3": "item/custom/phone_atlas"
 	},
 	"elements": [
 		{
