@@ -1,8 +1,9 @@
 {
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/basalt/1",
-		"particle": "block/basalt/1"
+		"0": "grindstone/rubiks_cube_atlas",
+		"particle": "grindstone/rubiks_cube_atlas"
 	},
 	"elements": [
 		{
@@ -407,24 +408,29 @@
 		{
 			"name": "Rubik's Cube",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [
 				{
 					"name": "Layers",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [
 						{
 							"name": "Layer_Top",
 							"origin": [8, 8, 8],
+							"color": 0,
 							"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 						},
 						{
 							"name": "Layer_Middle",
 							"origin": [8, 8, 8],
+							"color": 0,
 							"children": [9, 10, 11, 12, 13, 14, 15, 16, 17]
 						},
 						{
 							"name": "Layer_Bottom",
 							"origin": [8, 8, 8],
+							"color": 0,
 							"children": [18, 19, 20, 21, 22, 23, 24, 25, 26]
 						}
 					]
