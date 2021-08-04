@@ -1,9 +1,8 @@
 {
 	"parent": "item/handheld_rod",
 	"textures": {
-		"layer0": "items/stick"
+		"layer0": "item/stick"
 	},
-	
 	"overrides":[
 		{"predicate": {"custom_model_data":1}, "model":"item/custom/computer_tower"},
 		{"predicate": {"custom_model_data":2}, "model":"item/custom/gold_bar"},
