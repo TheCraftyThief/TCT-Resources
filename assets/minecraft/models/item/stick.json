@@ -10,7 +10,7 @@
 		{"predicate": {"custom_model_data":2}, "model":"item/custom/gold_bar"},
 		{"predicate": {"custom_model_data":3}, "model":"item/custom/phone"},
 		{"predicate": {"custom_model_data":4}, "model":"item/custom/rubiks_cube"},
-		{"predicate": {"custom_model_data":5}, "model": "item/custom/laptop"}
-
+		{"predicate": {"custom_model_data":5}, "model":"item/custom/cash"},
+		{"predicate": {"custom_model_data":6}, "model": "item/custom/laptop"}
 	]
 }
