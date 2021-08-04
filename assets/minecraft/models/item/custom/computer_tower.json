@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "block/power_button",
+		"3": "item/custom/power_button",
 		"4": "block/diamond_block",
-		"5": "grindstone/computer_atlas",
-		"particle": "block/power_button"
+		"5": "item/custom/computer_atlas",
+		"particle": "item/custom/power_button"
 	},
 	"elements": [
 		{
