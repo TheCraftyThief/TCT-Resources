@@ -9,7 +9,8 @@
 		{"predicate": {"custom_model_data":1}, "model":"item/custom/computer_tower"},
 		{"predicate": {"custom_model_data":2}, "model":"item/custom/gold_bar"},
 		{"predicate": {"custom_model_data":3}, "model":"item/custom/phone"},
-		{"predicate": {"custom_model_data":4}, "model":"item/custom/rubiks_cube"}
+		{"predicate": {"custom_model_data":4}, "model":"item/custom/rubiks_cube"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/laptop"}
 
 	]
 }
