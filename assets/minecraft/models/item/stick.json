@@ -12,6 +12,7 @@
 		{"predicate": {"custom_model_data":6}, "model": "item/custom/laptop"},
 		{"predicate": {"custom_model_data":7}, "model": "item/custom/television"},
 		{"predicate": {"custom_model_data":8}, "model": "item/custom/key"},
-		{"predicate": {"custom_model_data":9}, "model": "item/custom/among_us"}
+		{"predicate": {"custom_model_data":9}, "model": "item/custom/among_us"},
+		{"predicate": {"custom_model_data":10}, "model": "item/custom/credit_card"}
 	]
 }
